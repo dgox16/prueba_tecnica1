@@ -11,4 +11,4 @@ Para la instalación del backend deberá moverse al directorio `/backend`, y eje
 
 Por otro lado, para la instalación del frontend bastara con dirigirse al directorio `/frontend` y ejecutar el mismo comando `npm install` para instalar las dependencias.
 
-Para la ejecución tanto del frontend como del backend se ejecuta el comando `npm run dev`
+Para la ejecución tanto del frontend como del backend se ejecuta el comando `npm run dev`. En caso de usar una version antigua de NodeJS, el backend lo puede ejecutar con el comando `npm run start`
