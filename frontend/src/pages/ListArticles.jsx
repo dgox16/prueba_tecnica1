@@ -27,7 +27,7 @@ export const ListArticles = () => {
 						onClick={handleDeleteArticles}
 						className="p-3 bg-zinc-200 w-fit font-medium rounded-lg hover:scale-105 transition"
 					>
-						Eliminar articulos
+						Delete Articles
 					</button>
 					{articles.map((article) => (
 						<ArticleCard article={article} key={article._id} />
